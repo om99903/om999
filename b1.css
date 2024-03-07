@@ -1,0 +1,427 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.header {
+  width: 1060.47px;
+  display: flex;
+  margin: 0 auto;
+}
+.logo1 {
+  width: 77.34px;
+  height: 47px;
+  display: block;
+}
+.logo2 {
+  width: 20px;
+  height: 20px;
+  display: block;
+  padding-left: 550px;
+}
+.Lich a:hover {
+  width: 77.34px;
+  height: 47px;
+  color: #ff3333;
+  display: inline-block;
+  padding-right: 20px;
+}
+.Search1 {
+  width: 216px;
+  height: 32px;
+  display: block;
+}
+
+/*****/
+
+.header1 {
+  width: 1520px;
+  height: 36px;
+  background-color: #78b43d;
+}
+.header1_content {
+  width: 1004px;
+  text-align: center;
+  padding-left: 250px;
+  display: block;
+  overflow: hidden;
+}
+.logo {
+  display: block;
+  color: white;
+  overflow: hidden;
+  float: left;
+  padding-right: 15px;
+}
+.danhmuc {
+  width: auto;
+  display: block;
+  color: white;
+  overflow: hidden;
+  float: left;
+  text-align: center;
+}
+.menu {
+  padding-left: 10px;
+  width: auto;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+}
+.li9 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 9px;
+}
+.li10 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li11 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li12 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li13 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li14 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li15 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li16 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li17 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li18 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+.li1̣̣9 {
+  width: auto;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 15px;
+}
+/*****/
+.body1 {
+  width: 1060px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  margin: 0 auto;
+}
+.bodyL {
+  width: 535px;
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+.anh1 {
+  width: 500px;
+  display: block;
+  float: left;
+  text-align: center;
+  padding-left: 15px;
+}
+.bodyL h3 {
+  padding-left: 11px;
+  float: left;
+  display: block;
+}
+.bodyL span {
+  display: inline-block;
+  padding-left: 11px;
+}
+
+.bangtin1 {
+  width: 177px;
+  height: auto;
+  float: left;
+  display: block;
+}
+.imgBangTin1 {
+  width: 147px;
+  padding: 15px;
+}
+.bangtin1 p {
+  overflow: hidden;
+  display: inline-block;
+  text-align: center;
+}
+
+.bangtin2 {
+  width: 177px;
+  height: auto;
+  display: block;
+  float: left;
+}
+.imgBangTin2 {
+  width: 147px;
+  padding: 15px;
+  display: inline-block;
+}
+.bangtin2 p {
+  padding-left: 10px;
+  width: 146px;
+  display: inline-block;
+  text-align: center;
+}
+
+.bangtin3 {
+  width: 177px;
+  height: auto;
+  display: block;
+  float: left;
+}
+.imgBangTin3 {
+  width: 147px;
+  padding: 15px;
+  display: inline-block;
+}
+.bangtin3 p {
+  width: 146px;
+  display: inline-block;
+  text-align: center;
+}
+
+.bodyM {
+  width: 240px;
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+.bodyM span {
+  color: #78b43d;
+}
+.bodyM p {
+  font-weight: 600;
+  display: block;
+  overflow: hidden;
+  border-bottom: 1px solid #eaeaea;
+  padding: 13px 0;
+}
+
+.bodyR {
+  width: 240px;
+  display: block;
+  overflow: hidden;
+  float: right;
+}
+.bodyR img {
+  width: 300px;
+  height: 600px;
+  display: block;
+  overflow: hidden;
+  float: right;
+}
+.QC {
+  width: 100%;
+  text-align: center;
+  display: block;
+  overflow: hidden;
+}
+.QC img {
+  width: 1060px;
+  height: 105px;
+  text-align: center;
+}
+
+/***/
+
+.news {
+  width: 1060px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  margin: 0 auto;
+}
+.TTTN_L {
+  width: 530px;
+  display: inline-block;
+  overflow: hidden;
+  border-right: 1px solid #eaeaea;
+}
+.head_TTTN {
+  width: 525px;
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+.head_TTTN h2 {
+  float: left;
+  color: #78b43d;
+}
+.liTTTN {
+  width: 122px;
+  display: inline-block;
+  overflow: hidden;
+}
+.head_TTTN p {
+  width: 132px;
+  display: inline-block;
+  overflow: hidden;
+  text-align: center;
+}
+.liTTTN2 {
+  width: 122px;
+  display: inline-block;
+  overflow: hidden;
+}
+
+/******/
+
+.main_TTTN {
+  width: 500px;
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+.main_TTTN_L {
+  width: 250px;
+  display: block;
+  overflow: hidden;
+  float: left;
+}
+.main_TTTN_L img {
+  padding-top: 15px;
+  width: 245px;
+  height: 153px;
+}
+.main_TTTN_R {
+  width: 250px;
+  display: block;
+  overflow: hidden;
+  float: right;
+}
+.main_TTTN_R h3 {
+  padding-top: 15px;
+  width: 234.2px;
+  float: right;
+  overflow: hidden;
+  display: block;
+}
+.main_TTTN_R p {
+  width: 234.2px;
+  display: block;
+  float: right;
+  overflow: hidden;
+  padding-top: 5px;
+}
+.foot_TTTN {
+  width: 522px;
+  height: 209px;
+  display: inline-block;
+  overflow: hidden;
+  border-bottom: 1px solid #eaeaea;
+}
+.foot_TTTN1 {
+  width: 174px;
+  display: inline-block;
+  overflow: hidden;
+  padding-top: 15px;
+}
+.foot_TTTN1 img {
+  width: 154px;
+}
+.foot_TTTN1 p {
+  width: 154px;
+}
+.foot_TTTN2 {
+  width: 174px;
+  display: block;
+  overflow: hidden;
+  float: left;
+  padding-top: 15px;
+}
+.foot_TTTN2 img {
+  width: 154px;
+}
+.foot_TTTN2 p {
+  width: 154px;
+}
+.foot_TTTN3 {
+  width: 174px;
+  display: block;
+  overflow: hidden;
+  float: left;
+  padding-top: 15px;
+}
+.foot_TTTN3 img {
+  width: 154px;
+}
+.foot_TTTN3 p {
+  width: 154px;
+}
+/*****/
+.BongDa {
+  width: 560px;
+  display: inline-block;
+  overflow: hidden;
+  padding-left: 10px;
+}
+.DB_new {
+  width: 545px;
+  display: block;
+  overflow: hidden;
+}
+.DB_new h2 {
+  display: inline-block;
+  color: #78b43d;
+}
+.BD1 {
+  width: 110px;
+  display: inline-block;
+}
+.BD1 p {
+  display: inline-block;
+  overflow: hidden;
+}
+.BD2 {
+  width: 110px;
+  display: inline-block;
+}
+.BD2 p {
+  display: inline-block;
+  overflow: hidden;
+}
+.BD3 {
+  width: 110px;
+  display: inline-block;
+}
+.BD3 p {
+  display: inline-block;
+  overflow: hidden;
+}
